@@ -1,3 +1,9 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.0.1 (2020-11-12)
+
 ## 1.5.0 (2019-11-01)
 
 * a bunch of loose ends ([db16275](http://https//github.com/ucsc/ucsc-wp-starter/commits/db16275))
