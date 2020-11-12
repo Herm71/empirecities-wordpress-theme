@@ -1,0 +1,34 @@
+# Unit tests config
+phpunit.xml
+.travis.yml
+/bin
+tests/mocks/env/
+
+# Style sheets
+# style.css
+style.min.css
+
+# Visual Studio Code
+.vscode/
+
+# Sass cache
+.sass-cache/
+
+# Development files
+/node_modules
+/assets/vendor/
+
+# Package files
+dist/
+*.jar
+bundled/
+languages/
+
+#JetBrains
+.idea/
+
+# Rsync exclude file and scripts
+# rsync-exclude.txt
+# synctheme
+# pull-content
+# push-content

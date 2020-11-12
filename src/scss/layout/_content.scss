@@ -1,0 +1,27 @@
+/*
+ * Theme Name: Empire Cities Direct
+ *
+ * Layout: Site Content
+ *
+ * Learn more: https://developer.wordpress.org/themes/basics/template-files/
+*/
+
+.site-content,
+.wrap {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1170px;
+}
+
+
+/*
+ * Layout: Directory Archive
+ *
+*/
+
+.post-type-archive-directory {
+    article {
+        display: grid;
+        grid-template-columns: 1fr 200px;
+    }
+}
